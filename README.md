@@ -13,9 +13,9 @@ I'm passionate about building cool projects, learning new technologies, and shar
 
 ---
 
-## 🎄 Christmas Lo-fi music for coding 🎭
+## 🫟 Lo-fi music for coding 🎭
 
-[![Watch the video](https://img.youtube.com/vi/h_a3tqywv3I/maxresdefault.jpg)](https://youtu.be/h_a3tqywv3I)
+[![Watch the video](https://img.youtube.com/vi/OFsJen4j9VY/maxresdefault.jpg)](https://youtu.be/OFsJen4j9VY)
 
 ---
 
